@@ -4,6 +4,7 @@ A game creater can:
 * Add questions to games (including possible options, and correct answer/s)
 * Start a new game which game players can join
 * View existing games and past results in a dashboard
+
 A game player can:
 * Join a game through a link or a code
 * Participate in game by answering questions
